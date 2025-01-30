@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "65a2c47c4e1a3a456b2d7890",
+    "product": "Laptop",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "userId": "65a2c47c4e1a3a456b2d7891",
+    "product": "Smartphone",
+    "quantity": 2,
+    "status": "shipped"
+  },
+  {
+    "userId": "65a2c47c4e1a3a456b2d7892",
+    "product": "Tablet",
+    "quantity": 3,
+    "status": "delivered"
+  }
+]
